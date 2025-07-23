@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Fullstack Developer with 2 years of expertise<br>🤝 Currently working on an ERP 
+🔭 Fullstack Developer with 3 years of expertise<br>🤝 Currently working on an ERP 
 
 
 ## 🌐 Socials:
